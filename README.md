@@ -2,7 +2,7 @@
 
 # r-p-g-Java
 
-RPG em Java que estou criando enquanto sou guiado pelo Claude Sonnet 5 (eu crio o código e ele só me ensina como fazer algo com exemplos genéricos) para fazer uma aprendizagem prática da linguagem. Esse projeto é feito tanto nos computadores da minha escola quanto em casa. Para manter atualizado em ambos, criei este repositório na mente colmeia Vibe O. Coder!
+RPG em Java que Assis está criando para fazer uma aprendizagem prática da linguagem. Esse projeto é feito tanto nos computadores da escola quanto em casa. Para manter atualizado em ambos, criei este repositório na mente colmeia Vibe O. Coder!
 
 ---
 
